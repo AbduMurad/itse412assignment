@@ -45,4 +45,4 @@ It was to test how we can manipulate data in files and folders using php
 
 - Grab file names then substr the extension and use it in a condition checking if the extension is in a (png, PNG) format.
 
-🎉🎉🎉 Greate Job! 🎉🎉🎉
+Thanks! hope you learned something 🤞
